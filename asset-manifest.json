@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Doreen162/Beauty-salon/static/css/main.2c649460.chunk.css",
+    "main.js": "/Doreen162/Beauty-salon/static/js/main.fa1276e2.chunk.js",
+    "main.js.map": "/Doreen162/Beauty-salon/static/js/main.fa1276e2.chunk.js.map",
+    "runtime-main.js": "/Doreen162/Beauty-salon/static/js/runtime-main.d917e111.js",
+    "runtime-main.js.map": "/Doreen162/Beauty-salon/static/js/runtime-main.d917e111.js.map",
+    "static/js/2.8858725d.chunk.js": "/Doreen162/Beauty-salon/static/js/2.8858725d.chunk.js",
+    "static/js/2.8858725d.chunk.js.map": "/Doreen162/Beauty-salon/static/js/2.8858725d.chunk.js.map",
+    "index.html": "/Doreen162/Beauty-salon/index.html",
+    "precache-manifest.8293184c972f8aa600061b77c65aee86.js": "/Doreen162/Beauty-salon/precache-manifest.8293184c972f8aa600061b77c65aee86.js",
+    "service-worker.js": "/Doreen162/Beauty-salon/service-worker.js",
+    "static/css/main.2c649460.chunk.css.map": "/Doreen162/Beauty-salon/static/css/main.2c649460.chunk.css.map",
+    "static/js/2.8858725d.chunk.js.LICENSE.txt": "/Doreen162/Beauty-salon/static/js/2.8858725d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d917e111.js",
+    "static/js/2.8858725d.chunk.js",
+    "static/css/main.2c649460.chunk.css",
+    "static/js/main.fa1276e2.chunk.js"
+  ]
+}
