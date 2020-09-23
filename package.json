@@ -1,7 +1,7 @@
 {
   "name": "react-redux-beauty-salon",
   "version": "0.1.0",
-  "homepage": "https://github.io/Doreen162/Beauty-salon",
+  "homepage": "https://github.io/Doreen162/Beauty-salon/",
   "private": true,
   "dependencies": {
     "lodash": "4.17.15",
